@@ -1,0 +1,73 @@
+.Header {
+  background-color: #55B82E;
+  height: 50px;
+  font-size: large;
+  color: white;
+  font-weight: bold;
+  display: grid;
+  display: grid;
+  grid-template-columns: 90% 10%;
+}
+
+.HeaderTittle {
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+.HeaderImage {
+  padding-right: 5px;
+  margin-top: 5px;
+}
+
+.HeaderImage img{
+  width: 80%;
+}
+
+.Container {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-gap: 1vw;
+  grid-auto-rows: minmax(100px, auto);
+}
+
+.Selector {
+  grid-row: 1;
+  margin-left: 1vw;
+  margin-top: 1vw;
+  font-size: small;
+}
+
+.Selector p {
+  margin: 0;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.Selector button {
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: #55B82E;
+  color: white;
+  font-weight: bold;
+}
+
+.Categories {
+  margin-bottom: 0.5vw;
+}
+.SubCategories {
+  margin-bottom: 0.5vw;
+}
+
+
+.Map {
+  grid-row: 1;
+  margin-top: 1vw;
+  margin-right: 1vw;
+
+}
+
+.MapContainer {
+  height: 620px;
+  width: 100%;
+}
