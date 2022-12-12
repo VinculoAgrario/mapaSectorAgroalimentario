@@ -1,0 +1,2823 @@
+﻿[
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "AFE (Agrícola Forestal el Escudo)",
+        "x": "-34.875743970937464",
+        "y": "-70.9860532733",
+        "Direccion": "Fundo El Escudo, Teno",
+        "Comuna": "Teno"
+    },
+    {
+        "Categoria": "Condiciones habilitantes",
+        "Subcategoria": "Financiamiento",
+        "Nombre": "Agencia Nacional de Investigación y Desarrollo (ANID)",
+        "x": "-33.44230804253308",
+        "y": "-70.65584623162215",
+        "Direccion": "Moneda 1375, Santiago de Chile",
+        "Comuna": "Santiago"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agric. Las Tizas Oriente S.A.",
+        "x": "-35.388537135629115",
+        "y": "-71.82796758585121",
+        "Direccion": "Fundo Pencahue",
+        "Comuna": "Pencahue"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agricola Alomin EIRL",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Predio El Molino Lote H s/n ",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agricola e inmobiliaria Alicia SPA",
+        "x": "-35.957616323360796",
+        "y": "-72.3006710198463",
+        "Direccion": "Km 1,7 Ruta Los Conquistadores",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agricola Fruticola San Andres De Romeral Ltda.",
+        "x": "-35.059555645265036",
+        "y": "-71.2910581514468",
+        "Direccion": " Longitudinal Sur Km. 202, Molina",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agrícola OCA ",
+        "x": "-35.43853123302292",
+        "y": "-71.61638698862522",
+        "Direccion": "Avda. San Miguel 4900 , Talca ",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agrícola San Antonio",
+        "x": "-35.84667",
+        "y": "-71.59308",
+        "Direccion": "Avenida Longitudinal Sur Km299 Of., Linares\r\n",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agricola Valle Suave",
+        "x": "-35.84113568279377",
+        "y": "-71.62947347327213",
+        "Direccion": "Camino Longitudinal Sur, Km 300, Linares",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agrícola y Comercial Santa Camila S.A.",
+        "x": "-35.7120800",
+        "y": "-70.8484600",
+        "Direccion": "Fundo Santa Camila Lote B S/N San Clemente, TALCA",
+        "Comuna": "San Clemente"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agricola y Forestal Don Rafael",
+        "x": "-35.12094886130688",
+        "y": "-71.22638990234685",
+        "Direccion": "Las Mercedes S/N, Pichingal, Molina",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agricola y Vitivinicola Doña Aurora del Peumo",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Los Conquistadores K35, Cauquenes",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agrimaule Export SA",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "PARCELA 17 LOTE B EL BOLDAL, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agro Entre Ríos SpA",
+        "x": "-35.84667",
+        "y": "-71.59308",
+        "Direccion": "Fundo Parronales s/n Km 304 Ruta 5 Sur, Linares",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agroce (Soc. Agroindustrial de Cerezas Ltda)",
+        "x": "-35.0683200",
+        "y": "-70.7112300",
+        "Direccion": "Casas del Oratorio s/n, Romeral\r\n",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agrocepia",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Longitudinal Sur Nº90, P.O. Box 457, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agrofreeze",
+        "x": "-35.7120800",
+        "y": "-70.8484600",
+        "Direccion": "Avenida San Miguel Km 10,1, San Clemente",
+        "Comuna": "San Clemente"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agrofrutícola Pehuenche, S.A.",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "PARCELA 8 LOTE 2 FLOR DEL LLANO REGION DEL MAULE,  TALCA,  CHILE",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Servicios tecnológicos varios",
+        "Nombre": "Agrogest",
+        "x": "-35.84910980174244",
+        "y": "-71.59519737327192",
+        "Direccion": "Valentín Letelier 609, Linares",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Agroindustria de Avellanas S.p.a (ALC)",
+        "x": "-71.4411600",
+        "y": "-36.1106600",
+        "Direccion": "Agrícola La Campana, Parcela 30-B, Km 8.5, Carretera L-49, Longavi, Provincia de Linares",
+        "Comuna": "Longaví"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agroindustrial NutriAgro Ltda",
+        "x": "-35.4264",
+        "y": "-71.6694494",
+        "Direccion": "1 Poniente 6 ½ Norte Nº 32, Brisas del Claro I, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa ",
+        "Nombre": "Agroindustrial Siracusa S. A. (Aura Olive Oil)",
+        "x": "-35.1042600",
+        "y": "-71.4958600",
+        "Direccion": "Sagrada Familia, Maule",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Agroindustrial Valle Frio S.A",
+        "x": "-34.96459236254637",
+        "y": "-71.05819306631815",
+        "Direccion": "parcela N°2, San Manuel Km 12, Romeral",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Servicios tecnológicos varios",
+        "Nombre": "Agronova",
+        "x": "-35.429335137964046",
+        "y": "-71.61680163095474",
+        "Direccion": "35 Oriente 1654, Talca - Chile",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Agrozzi",
+        "x": "-34.8879000",
+        "y": "-71.0223900",
+        "Direccion": "Camino Long Sur Km 174\r\nTeno - Chile",
+        "Comuna": "Teno"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Alimentos y Frutos S.A - ALIFRUT",
+        "x": "-35.0683200",
+        "y": "-70.7112300",
+        "Direccion": "Camino Los Queñes km 7,5 , Romeral, Curico",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Almazara del Pacifico SpA",
+        "x": "-35.3019400",
+        "y": "-71.5010800",
+        "Direccion": "Camino Alto Pangue km 6.5 s/n, Fundo San Agustin de Huilliborgoa , San Rafael",
+        "Comuna": "San Rafael"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "AMS Family",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "Longitudinal Sur Kilómetro 185 Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Andes Wisdom Chile (ECOCREA)",
+        "x": "-35.71284920106588",
+        "y": "-71.41890312392819",
+        "Direccion": "San Dionisio Parcela 67 Lote I, Colbún, Del Maule",
+        "Comuna": "Colbún"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Andifungui Exportadora SA",
+        "x": "-35.84271679001774",
+        "y": "-71.61503413600495",
+        "Direccion": "Avda. Aníbal León Bustos 0925\r\nLinares, 3582485 Maule\r\nCHILE",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "APFrut Ltda. (Agroindustria Pinochet Fuenzalida Ltda) ",
+        "x": "-34.958929180268505",
+        "y": "-71.13104363096826",
+        "Direccion": "Av. Libertad 650, Romeral\r\n",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Arauco Nutrientes Naturales SpA ",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación de Emprendedores de Chile Maule- ASECH Maule",
+        "x": "-35.533333",
+        "y": "-71.7",
+        "Comuna": "Maule"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación de Empresarios Vitivinicolas Curicó & Maule Asociación Gremial (Vinos de Curicó & Maule A.G.)",
+        "x": "-35.43449636341101",
+        "y": "-71.62892180211924",
+        "Direccion": "AVDA. SAN MIGUEL 3233, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación de Empresarios Vitivinicolas Vignadores de Carignan Asociación Gremial (Vignadores de Carignan A.G.- VIGNO)",
+        "x": "-35.3333",
+        "y": "-72.4167",
+        "Direccion": "CAMINO A CONSTITUCIÓN. KM. 20.",
+        "Comuna": "Constitución"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación de Industriales del Centro (Asicent)",
+        "x": "-35.427159852881815",
+        "y": "-71.66690137328412",
+        "Direccion": "1 Sur #690 Edif. Plaza Talca, Depto.\r\n401 Piso 4°, Talca - Chile",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial \"Viñateros de Piguchen\" (A.V.I.P.I. A.G.)",
+        "x": "-35.3276900",
+        "y": "-71.8292700",
+        "Direccion": "Casilla N° 20, Sector Rural de Piguchen",
+        "Comuna": "Retiro"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Agricultura Orgánica del Centro Sur A.G (ORGÁNICOS DEL CENTRO SUR A.G.)",
+        "x": "-34.98306668989671",
+        "y": "-71.23882731562618",
+        "Direccion": "Carmen N° 752, oficina 804",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Apicultores de la Séptima Región (Mieles del Maule A.G)",
+        "x": "-35.05619166275299",
+        "y": "-71.27064207329478",
+        "Direccion": "Avenida 7 de Abril N° 2021, Lontué",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociacion Gremial de Apicultores del Maule \"APISMAULE\"",
+        "x": "-35.595979731989374",
+        "y": "-71.72889190211455",
+        "Direccion": "AVDA. BALMACEDA 2250, DEPTO. 2, 2° PISO FONO 761464  SAN JAVIER",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Empresarios Industriales y de Servicios afines de Talca - ASEMIT A.G.",
+        "x": "-35.42875848015293",
+        "y": "-71.68072803770168",
+        "Direccion": "Calle 8 Sur N° 107",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Fruticultores de la Séptima Región – FRUSEPTIMA",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Industriales del Pan y Otros Similares de la Provincia de Curicó \"INDUPAN CURICÓ\"",
+        "x": "-34.9737666802647",
+        "y": "-71.24026967329719",
+        "Direccion": "CARMEN Nº 1395 CURICO",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Industriales del Pan y Otros Similares de la Provincia de Linares y sus Comunas (INDUPAN LINARES A.G.)",
+        "x": "-35.84570118005474",
+        "y": "-71.59317890210727",
+        "Direccion": "KURT MOLLER N.647 LINARES",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Industriales del Pan y Otros Similares de Talca (INDUPAN TALCA)",
+        "x": "-33.358730703098146",
+        "y": "-70.50445480217807",
+        "Direccion": "1 Oriente N° 769",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Productores Apícolas de la Provincia de Curicó",
+        "x": "-34.98677647022986",
+        "y": "-71.24417307329678",
+        "Direccion": "Avda. O'Higgins N° 465",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Productores Apícolas de la Provincia de Linares",
+        "x": "-35.83954037749408",
+        "y": "-71.60654770210743",
+        "Direccion": "Los Nardos N° 0290, Linares, Región del Maule.",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Truficultores de Chile (ATCHILE A.G.)",
+        "x": "-35.55460936583604",
+        "y": "-71.59525140211578",
+        "Direccion": "Escuela Agrícola San José de Duao",
+        "Comuna": "Licantén"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Vitivinicultores de San Javier",
+        "x": "-35.6005103272517",
+        "y": "-71.71024587327916",
+        "Direccion": "BALMACEDA 685, SAN JAVIER",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial de Vitivinivultores del Secano de Cauquenes (VIDSECA A.G.)",
+        "x": "-35.96614784709899",
+        "y": "-72.31023737326838",
+        "Direccion": "Calle Membrillar N° 537",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Asociación Gremial Vitivinicultores del Maule (AGREVIMA A.G.)",
+        "x": "-35.42187940915388",
+        "y": "-71.65435947328426",
+        "Direccion": "Calle 9 Oriente N° 1541",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Austral Fruits S.A",
+        "x": "-71.4411600",
+        "y": "-36.1106600",
+        "Direccion": "Lote A, subdivision Lote 1, Mesamavida, Km 2, Longaví",
+        "Comuna": "Longaví"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "BearBerry",
+        "x": "-35.86001747070941",
+        "y": "-71.4990702805484",
+        "Direccion": "San Antonio de Encina, parcela 93, Linares",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Berries Chile S.A",
+        "x": "-35.8688592151296",
+        "y": "-71.52464778170652",
+        "Direccion": "Camino San Antonio De Lamas, Km. 2,8 Linares \r\n",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Berrynice (Exportadora e importadora Berrynice Limitada)",
+        "x": "-35.42508809485542",
+        "y": "-71.66633837328416",
+        "Direccion": "1 poniente 1258, de 421, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Bioinsumo Nativa",
+        "x": "-35.52692382613369",
+        "y": "-71.68132044776877",
+        "Direccion": "Camino Parcela Antilhue S/N Lote 4 - B2, Maule",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Bodega Cienaga",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Maria de la Luz Silva Donoso N° 119 Cauquenes",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Bodega y Viñedos Riberas del Maule S.A.",
+        "x": "-35.427963280153065",
+        "y": "-71.66725240211942",
+        "Direccion": "2 Sur N° 665 Of. 1301",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Caá Yarí Mate",
+        "x": "-34.98402037052632",
+        "y": "-71.22588887329684",
+        "Direccion": "Huesca 720, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cámara de Comercio de Curicó",
+        "x": "-34.986375460285224",
+        "y": "-71.23834900213218",
+        "Direccion": "Carmen 470, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cámara de Comercio de Talca",
+        "x": "-35.42849258015292",
+        "y": "-71.66188827328408",
+        "Direccion": "AV Dos Sur N° 1061. Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Casa Güel SpA",
+        "x": "-35.1042600",
+        "y": "-71.4958600",
+        "Direccion": "Camino a la Costa 901, Sagrada Familia",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Casona Araggi Wines SpA. ",
+        "x": "-35.012126051684355",
+        "y": "-71.21855388006504",
+        "Direccion": "Camino a los niches Km 2, Curicó Parcela 3, lote B, lote 1, Numpay",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Cecinas Fray Ignacio (Cecinas y Alimenticios San Ignacio Limit)",
+        "x": "-34.98189355174323",
+        "y": "-71.24563780213232",
+        "Direccion": "Av. Camilo Henríquez 772, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Cecinas Soler",
+        "x": "-34.97799849813183",
+        "y": "-71.20677818732833",
+        "Direccion": "Longitudinal Sur Km. 189, ciudad de Curicó.",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Cenkiwi (Coopefrut)",
+        "x": "-34.84427369646989",
+        "y": "-71.10660928598833",
+        "Direccion": "Ruta 5 Sur Km. 172, Teno, Chile",
+        "Comuna": "Teno"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Negocios",
+        "Nombre": "Centro de Desarrollo de Negocios Constitución",
+        "x": "-35.32960628618171",
+        "y": "-72.41101993095764",
+        "Direccion": "Calle Portales N° 301, Constitución",
+        "Comuna": "Constitución"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Negocios",
+        "Nombre": "Centro de Desarrollo de Negocios Curicó ",
+        "x": "-34.982184189802176",
+        "y": "-71.23932933096768",
+        "Direccion": "Carmen 827, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Negocios",
+        "Nombre": "Centro de Desarrollo de Negocios Linares",
+        "x": "-35.84660097338303",
+        "y": "-71.59831044443652",
+        "Direccion": "Curapalihue 450, Linares",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Negocios",
+        "Nombre": "Centro de Desarrollo de Negocios Talca",
+        "x": "-35.422827108845176",
+        "y": "-71.66009827328422",
+        "Direccion": "4 Norte #1154 Piso 1,Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Emprendimiento",
+        "Nombre": "Centro de Emprendimiento e Innovación",
+        "x": "-35.42161299410196",
+        "y": "-71.67171724444893",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Hub de TT",
+        "Nombre": "Centro de Emprendimiento e Innovación Abierta (HUB Alimentos)",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Universidad de Talca\r\nAv. Lircay s/n, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Centro de Estudios en Alimentos Procesados (CEAP)",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Casilla 1007, Talca, Chile ",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Extensionismo",
+        "Nombre": "Centro de Extensionismo Tecnológico (Thinkagro)",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Parcela Victoria Oriente 2, Ruta CH 115, KM 11, Talca\r\nAvenida Lircay S/N, Universidad de Talca, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Centro de Inocuidad Alimentaria",
+        "x": "-35.40531726589457",
+        "y": "-71.63336534598346",
+        "Direccion": "Avenida Lircay S/N, Universidad de Talca, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Centro de Investigación e Innovación Viña Concha y Toro",
+        "x": "-35.44084570168127",
+        "y": "-71.83395852272298",
+        "Direccion": "Fundo Pocoa s/n, Ruta K-650 Camino Rauquén-Corinto,\r\nComuna de Pencahue, Talca",
+        "Comuna": "Pencahue"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Transferencia tecnológica",
+        "Nombre": "Centro de Investigación y Transferencia en Riego y Agroclimatología (CITRA)",
+        "x": "-35.42651740764269",
+        "y": "-71.66709277328415",
+        "Direccion": "1 Poniente #1141, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Centro de Mejoramiento Genético y Fenómica Vegetal (CMG&FV)     ",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Avenida Lircay S/N, Universidad de Talca, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Centro de Plantas Nativas de Chile (CENATIV)",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Facultad de Ciencias Agrarias, Universidad de Talca, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Centro de Pomáceas (CP)",
+        "x": "-35.40683798485673",
+        "y": "-71.63500920606144",
+        "Direccion": "Facultad de Ciencias Agrarias, Universidad de Talca, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Transferencia tecnológica",
+        "Nombre": "Centro Experimental INIA Cauquenes",
+        "x": "-35.95778430584556",
+        "y": "-72.2875491602208",
+        "Direccion": "Camino a Parral km 4, Cauquenes",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Centro para el impacto socioeconómico de las políticas ambientales (CESIEP)",
+        "x": "-33.49869827418042",
+        "y": "-70.6154714733388",
+        "Direccion": "Av. Vicuña Mackenna 4860, Santiago de Chile",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Centro Tecnológico de la Vid y el Vino (CTVV)",
+        "x": "-35.40666309197594",
+        "y": "-71.63591042822486",
+        "Direccion": "Facultad de Ciencias Agrarias, Universidad de Talca, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Servicios tecnológicos varios",
+        "Nombre": "Centro Tecnológico de Suelos y Cultivos (CTSyC)",
+        "x": "-35.404004674579014",
+        "y": "-71.63648978517604",
+        "Direccion": "Avda Lircay S/N,  Talca, Chile",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Centro Tecnológico Kipus",
+        "x": "-35.00357650468066",
+        "y": "-71.22917542224751",
+        "Direccion": "Edificio de Investigación y Desarrollo, Facultad de Ingeniería – Universidad de Talca. Camino a los Niches Km 1, Curicó, Chile",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Cervecería H. Berner Limitada",
+        "x": "-35.013649013129346",
+        "y": "-71.21719952635668",
+        "Direccion": "Camino a los Niches km. 2,5",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Cervecería Pwenche",
+        "x": "-35.56686176696085",
+        "y": "-71.3635603219646",
+        "Direccion": "km 32 de la ruta internacional Pehuenche, San Clemente",
+        "Comuna": "San Clemente"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Cervezas Maihue",
+        "x": "-34.98567335052486",
+        "y": "-71.22963137329683",
+        "Direccion": "Francisco Moreno 456, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Cesar Opazo Espinoza",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Tabolguen s/n",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Técnico-Profesional",
+        "Nombre": "CFT de la Región del Maule, Linares",
+        "x": "-35.84667",
+        "y": "-71.59308",
+        "Direccion": "Santa Lucinda, S/N, Linares",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Técnico-Profesional",
+        "Nombre": "CFT INACAP, Curicó",
+        "x": "-34.97825498026363",
+        "y": "-71.21171053096772",
+        "Direccion": "Archipiélago Juan Fernández 2010, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Técnico-Profesional",
+        "Nombre": "CFT INACAP, Talca",
+        "x": "-35.436387780151115",
+        "y": "-71.6241298732838",
+        "Direccion": "Av. San Miguel 3496, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Técnico-Profesional",
+        "Nombre": "CFT SAN AGUSTIN, Cauquenes",
+        "x": "-35.981354507531904",
+        "y": "-72.31420729287255",
+        "Direccion": "Av. Monseñor Enrique Alvear S/N, Cauquenes",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Técnico-Profesional",
+        "Nombre": "CFT SAN AGUSTIN, Curicó",
+        "x": "-34.98745807015646",
+        "y": "-71.24309585980286",
+        "Direccion": "Argomedo 646, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Técnico-Profesional",
+        "Nombre": "CFT SAN AGUSTIN, Linares",
+        "x": "-35.85129036465705",
+        "y": "-71.5924542732718",
+        "Direccion": "Colo Colo 840, Linares",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Técnico-Profesional",
+        "Nombre": "CFT SAN AGUSTIN, Talca",
+        "x": "-35.42523142278868",
+        "y": "-71.6709044444488",
+        "Direccion": "4 poniente 1223,\r\nTalca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Técnico-Profesional",
+        "Nombre": "CFT Santo Tomás, Curicó",
+        "x": "-34.984871770434864",
+        "y": "-71.24091867329689",
+        "Direccion": "Merced #461, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Técnico-Profesional",
+        "Nombre": "CFT Santo Tomás, Talca",
+        "x": "-35.42874100691799",
+        "y": "-71.672840173284",
+        "Direccion": "Avenida Carlos Schorr # 255, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Chilebotanics-Naturex",
+        "x": "-35.801688581651035",
+        "y": "-71.6561871156025",
+        "Direccion": "PANAMERICANA SUR KILOMETRO 297, LINARES, CHILE",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Incubadoras",
+        "Nombre": "Chrysalis ",
+        "x": "-35.42281836594918",
+        "y": "-71.66009827328422",
+        "Direccion": "Cuatro Norte 1154, Talca ",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Articulación/Vinculación",
+        "Nombre": "Codesser ",
+        "x": "-35.42922046455779",
+        "y": "-71.66794154444871",
+        "Direccion": "3 sur 645 entre 1 y 2 poniente – Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Coexca",
+        "x": "-35.45684974464164",
+        "y": "-71.64795262026378",
+        "Direccion": "Longitudinal Sur Km. 259, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Complejo Educacional Pencahue",
+        "x": "-35.397823",
+        "y": "-71.798804",
+        "Direccion": "Fernando Parot Silva N°225 Pencahue, DEL MAULE, PENCAHUE",
+        "Comuna": "Pencahue"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Escuela Agrícola Superior de Molina",
+        "x": "-35.097746",
+        "y": "-71.273942",
+        "Direccion": "Avenida Quechereguas S/n, DEL MAULE, MOLINA",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Escuela de Administración y Comercio",
+        "x": "-34.943908",
+        "y": "-71.204362",
+        "Direccion": "Camino A Sarmiento Esquina Arturo Prat, DEL MAULE, CURICÓ",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Instituto Politécnico Superior Egidio Rozzi Sachetti",
+        "x": "-35.330469",
+        "y": "-72.406934",
+        "Direccion": "Cruz 60, Constitución, Maule",
+        "Comuna": "Constitución"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Juan Piamarta",
+        "x": "-35.44273362088458",
+        "y": "-71.6680826444483",
+        "Direccion": "Dieciséis Sur 765, Talca.",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Agrícola Nicolás Moreno Vergara",
+        "x": "-34.96457477770739",
+        "y": "-71.14925942669063",
+        "Direccion": "Avenida Ramón Freire s/n Romeral (kilometro 4, desde el cruce Romeral, DEL MAULE, ROMERAL",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Agrícola Padre Alberto Hurtado Cruchaga",
+        "x": "-35.143985576201416",
+        "y": "-71.27769223043471",
+        "Direccion": "Dos esquinas S/N, Molina, Chile",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Agricola Sagrados Corazones",
+        "x": "-35.64890005391503",
+        "y": "-71.74805975764683",
+        "Direccion": "Loncomilla S/n, DEL MAULE, VILLA ALEGRE",
+        "Comuna": "Villa Alegre"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Agrícola San José de Duao",
+        "x": "-35.55439927097012",
+        "y": "-71.5953281247277",
+        "Direccion": "Camino Publico Talca A Duao S/n, DEL MAULE",
+        "Comuna": "Licantén"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Agroindustrial Rio Claro",
+        "x": "-35.28329917229628",
+        "y": "-71.25444245000344",
+        "Direccion": "Casimiro Sepulveda S/n Cumpeo, DEL MAULE, RÍO CLARO",
+        "Comuna": "Río Claro"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Arturo Alessandri Palma- Longavi",
+        "x": "-35.96870596328074",
+        "y": "-71.68759863093902",
+        "Direccion": "1 Poniente 4 Sur, DEL MAULE, LONGAVÍ",
+        "Comuna": "Longaví"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Arturo Alessandri Palma- Romeral",
+        "x": "-34.96457477770739",
+        "y": "-71.1236312309685",
+        "Direccion": "Avenida Brasil 630 - Romeral",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Ascención Jara Segura",
+        "x": "-35.981918",
+        "y": "-72.318043",
+        "Direccion": "Avenida Padre Alberto Hurtado, DEL MAULE, CAUQUENES",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Bicentenario Marta Martínez Cruz de Yerbas Buenas",
+        "x": "-35.74400377510221",
+        "y": "-71.57473055130471",
+        "Direccion": "Camino Abranquil S/n, DEL MAULE, YERBAS BUENAS.",
+        "Comuna": "Yerbas Buenas"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Capitán Ignacio Carrera Pinto",
+        "x": "-35.702640787987185",
+        "y": "-71.40071361212374",
+        "Direccion": "Los Aromos S/n, DEL MAULE, COLBÚN",
+        "Comuna": "Colbún"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Federico Heise Marti",
+        "x": "-36.142528479987575",
+        "y": "-71.82178204442786",
+        "Direccion": "Urrutia #375, Parral",
+        "Comuna": "Parral"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Francisco Antonio Encina Armanet",
+        "x": "-35.68798930813946",
+        "y": "-71.72628600211189",
+        "Direccion": "Avenida Francisco Antonio Encina N° 540, DEL MAULE, VILLA ALEGRE",
+        "Comuna": "Villa Alegre"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Gonzalo Correa Ugarte",
+        "x": "-35.094596",
+        "y": "-71.270101",
+        "Direccion": "Avenida Quechereguas S/n, DEL MAULE, MOLINA",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Manuel Montt",
+        "x": "-35.5973213040298",
+        "y": "-71.7231080309499",
+        "Direccion": "Avenida Presidente Balmaceda 1880, DEL MAULE, SAN JAVIER",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo María Auxiliadora de Linares",
+        "x": "-35.84454507072538",
+        "y": "-71.59859295977803",
+        "Direccion": "O'higgins 615, DEL MAULE, LINARES",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Nuestra Señora de las Mercedes",
+        "x": "-35.966027947125376",
+        "y": "-72.33156743093922",
+        "Direccion": "Antonio Varas 1528, DEL MAULE, CAUQUENES",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Polivalente de Molina",
+        "x": "-35.11059443353867",
+        "y": "-71.27885840212866",
+        "Direccion": "Quechereguas 1560, DEL MAULE, MOLINA.",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Polivalente Sagrada Familia",
+        "x": "-34.99752203375212",
+        "y": "-71.38680499742729",
+        "Direccion": "Tomas Ignacio Correa S/n, DEL MAULE, SAGRADA FAMILIA",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo San Clemente Entre Ríos",
+        "x": "-35.53794498257179",
+        "y": "-71.48485651493885",
+        "Direccion": "Los Nogales 198, San Clemente, Maule",
+        "Comuna": "San Clemente"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo San Ignacio",
+        "x": "-35.58912238696968",
+        "y": "-72.28243705327996",
+        "Direccion": "Bueras 125, DEL MAULE, EMPEDRADO",
+        "Comuna": "Empedrado"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Técnico Agrícola María Auxiliadora Colín",
+        "x": "-35.46556515046954",
+        "y": "-71.73152818380592",
+        "Direccion": "Camino Colin S/n , Localidad De Colín, DEL MAULE, MAULE",
+        "Comuna": "Maule"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Técnico Amelia Courbis",
+        "x": "-35.426190022684494",
+        "y": "-71.6611420021195",
+        "Direccion": "4 Oriente 1210, DEL MAULE, TALCA.",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Técnico Profesional Diego Portales",
+        "x": "-35.84981037267848",
+        "y": "-71.58896863094262",
+        "Direccion": "Carmen 370, DEL MAULE, LINARES.",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Técnico Profesional el Sauce",
+        "x": "-35.47306102497166",
+        "y": "-71.5578171715999",
+        "Direccion": "Camino San Clemente Km 10 Mercedes, DEL MAULE, TALCA",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Técnico Profesional Simon Bolivar",
+        "x": "-34.976447153498576",
+        "y": "-71.21345274446173",
+        "Direccion": "Av. Rauquén n°1155, Maule, Curicó, Maule",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Tecnológico Mataquito",
+        "x": "-34.981465661340785",
+        "y": "-71.249475773297",
+        "Direccion": "Bombero Garrido 998, DEL MAULE, CURICÓ.",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Liceo Teno",
+        "x": "-34.869989880290895",
+        "y": "-71.16455957330018",
+        "Direccion": "Dr. Faundez 380, TENO",
+        "Comuna": "Teno"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Politécnico Aquelarre ",
+        "x": "-34.883086",
+        "y": " -71.153832",
+        "Direccion": "Avenida Bellavista 348, DEL MAULE, TENO.",
+        "Comuna": "Teno"
+    },
+    {
+        "Categoria": "Formación ",
+        "Subcategoria": "Educación Técnico-Profesional",
+        "Nombre": "Colegio Salesianos Linares",
+        "x": "-34.883086",
+        "y": " -71.153832",
+        "Direccion": "MARÍA AUXILIADORA 327\r\nLINARES",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Comercial Antillal Ltda.",
+        "x": "-35.8485693405998",
+        "y": "-71.58622716982288",
+        "Direccion": "Camino San Antonio Parcela N° 22 Lote 1-N Linare",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Comercial Ranquilhue Limitada",
+        "x": "-35.03399180521472",
+        "y": "-71.25671226376303",
+        "Direccion": "Longitudinal Sur Km 196, Sagrada Familia, Maule",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Comfrut S.A.",
+        "x": "-71.4411600",
+        "y": "-36.1106600",
+        "Direccion": "Longaví, Linares",
+        "Comuna": "Longaví"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Comfrut, Planta Frusur S.A.",
+        "x": "-35.6891800",
+        "y": "-71.5444400",
+        "Direccion": "Camino Linares yerbas buenas km. 8, sector las cruces",
+        "Comuna": "Yerbas Buenas"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cooperativa Agrícola ACHIMIEL",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cooperativa Agrícola Apícola Lomas de Lircay Limitada.",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "PARCELA 15, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cooperativa Agrícola de Productos Orgánicos Maria Hortencia Limitada",
+        "x": "-35.2833",
+        "y": "-71.2667",
+        "Direccion": "Parcela 36, Sector Las Mercedes, Río Claro",
+        "Comuna": "Río Claro"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cooperativa Agrícola Especial Vitivinicola de Cauquenes Limitada (COVICA o Vina Lomas de Cauquenes Limitada)",
+        "x": "-35.98068626196022",
+        "y": "-72.31811140210336",
+        "Direccion": "AVENIDA RUPERTO PINOCHET 690",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cooperativa Agrícola Vitivinicola de Curicó Limitada",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cooperativa Agrícola Vitivinicola Loncomilla",
+        "x": "-35.6290200",
+        "y": "-71.9271200",
+        "Direccion": "Ribera Poniente Rio Loncomilla, San Javier de Loncomilla, Maule, Chile",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cooperativa Agrícola y Vitivinicola Valle Santo Toribio Ltda (COVISANTO LTDA)",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "RUTA LOS CONQUISTADORES NORTE KM 35 PREDIO DONA AURORA DEL PEUMO",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cooperativa Apícola Potrero Grande Ltda. de Curicó",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Cooperativa de Productores Orgánicos de Chile (Organicoop)",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Entorno",
+        "Subcategoria": "Entorno",
+        "Nombre": "Coorporación Regional de Desarrollo Productivo",
+        "x": "-35.42728990739093",
+        "y": "-71.66480550211942",
+        "Direccion": "Uno Sur 848, piso 4",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Copefrut",
+        "x": "-34.968609988231776",
+        "y": "-71.19598498522001",
+        "Direccion": "Longitudinal Sur Km. 185,\r\nCuricó, Chile",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Condiciones habilitantes",
+        "Subcategoria": "Financiamiento",
+        "Nombre": "CORFO ",
+        "x": "-35.425811550447555",
+        "y": "-71.66611763095484",
+        "Direccion": "1 Norte 739, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Espacios colaborativos",
+        "Nombre": "Coworking Maule",
+        "x": "-35.42715792465997",
+        "y": "-71.65485185836664",
+        "Direccion": "Sexto piso de Mall Portal Centro, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Servicios tecnológicos varios",
+        "Nombre": "Data Science Lab Utalca",
+        "x": "-35.43526269265807",
+        "y": "-71.62089909257166",
+        "Direccion": "Avenida Lircay s/n (234,96 km)\r\n3460000 Talca, Chile",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Delifrut",
+        "x": "-34.89744451488089",
+        "y": "-72.17919659918458",
+        "Direccion": "Duao s/n, Curicó",
+        "Comuna": "Licantén"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Deshidratados Kadosh",
+        "x": "-36.130888098352706",
+        "y": "-71.81314906803483",
+        "Direccion": "Pasaje 10 N°254 (319,04 km)\r\nParral, Chile",
+        "Comuna": "Parral"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Diego Morales Cepeda",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Coronel de Maule ",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Transferencia tecnológica",
+        "Nombre": "Dirección de Innovación y Transferencia",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Campus Talca, Av. Lircay s/n, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Domingo Arellano Canales",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Predio El Peumo Km 35. Ruta Los Conquistadores",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Gremios y Cooperativas",
+        "Nombre": "Dote y Vera Ltda.",
+        "x": "-35.7120800",
+        "y": "-70.8484600",
+        "Direccion": "PARCELA 2 SITIO 2 EL ALBA, San Clemente",
+        "Comuna": "San Clemente"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Edilberto Contreras Rivas",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Coronel de Maule ",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Ekofrut de Romeral",
+        "x": "-35.11428",
+        "y": "-71.28232",
+        "Direccion": "Fundo Santa Lucia, Molina",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "El Bosque de Lipimavida",
+        "x": "-34.8410100",
+        "y": "-72.0227700",
+        "Direccion": "Lipimávida s/n ruta j-60 km 130, Vichuquén",
+        "Comuna": "Vichuquén"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Erasmo- Viña La Reserva de Caliboro",
+        "x": "-35.846023895863084",
+        "y": "-71.85884999008023",
+        "Direccion": "Viña La Reserva de Caliboro\r\nCarretera San Antonio - Caliboro Km 5,8 - San Javier",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Esbelin",
+        "x": "-35.84419967698224",
+        "y": "-71.59536780210725",
+        "Direccion": "Max Jara 482, Linares, Maule",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Profesional",
+        "Nombre": "Escuela Internacional de Postgrado, Universidad Autónoma ",
+        "x": "-34.98800509042572",
+        "y": "-71.24615304446144",
+        "Direccion": "Cinco Pte. N°1670, Talca, Maule",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Exportadora Frugal",
+        "x": "-35.766573176354576",
+        "y": "-71.58987964594043",
+        "Direccion": "Exportadora Frugal S.A., Curicó Chile",
+        "Comuna": "Yerbas Buenas"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Exportadora y Procesadora de Frutas y Verduras Copramar Ltda. (Copramar)",
+        "x": "-35.43526269265807",
+        "y": "-71.62089909257166",
+        "Direccion": "Las Toscas, Ruta L-25, Km 7, Yerbas Buenas",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Servicios tecnológicos varios",
+        "Nombre": "FabLab",
+        "x": "-35.118226131892854",
+        "y": "-71.28088080212842",
+        "Direccion": "Facultad de Ingeniería Universida de Talca, Camino Los Niches Km. 1, Curicó, Chile.",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Fábrica de Cecinas Valdivia SpA.",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Agua Fria 1263, Molina",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Profesional",
+        "Nombre": "Facultad de Ciencias Agrarias, U. de Talca",
+        "x": "-35.405879915283165",
+        "y": "-71.6351997521201",
+        "Direccion": "Facultad de Ciencias Agrarias, Universidad de Talca, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Profesional",
+        "Nombre": "Facultad de Ciencias Agrarias, U. de Talca",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "Av. Lircay S/n Campus Universidad de Talca (235,17 km)",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Profesional",
+        "Nombre": "Facultad de Ciencias Agrarias y Forestales, UCM",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Campus San Isidro, en el Km. 6 del camino a Los Niches, Curicó",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Fernando Henriquez Henriquez",
+        "x": "-35.42386430850725",
+        "y": "-71.66270967328414",
+        "Direccion": "Calle Union s/n Coronel de Maule",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Condiciones habilitantes",
+        "Subcategoria": "Financiamiento",
+        "Nombre": "FIA",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "3 Norte 980, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Condiciones habilitantes",
+        "Subcategoria": "Financiamiento",
+        "Nombre": "FIC-Región del Maule",
+        "x": "-71.4411600",
+        "y": "-36.1106600",
+        "Comuna": "Longaví"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Frigoberries",
+        "x": "-35.0683200",
+        "y": "-70.7112300",
+        "Direccion": "Longaví,La Aguada Subdelegacion 16",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Frucol Planta Congelados",
+        "x": "-35.007330639095414",
+        "y": "-71.22284540523518",
+        "Direccion": "Camino Viejo a Romeral",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Frule Ltda",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "Loteo San Ramón s/n KM 1, Camino los niches, Curicó - Chile",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Frulexport (Sociedad Agrícola y Fruticola Leon Ltda.)",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "Loteo San Ramón s/n KM 1 camino los niches, Curicó - Chile",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Frunar (Sociedad de Prestación de Servicio de Frío Limitada)",
+        "x": "-35.01802713731241",
+        "y": "-71.25003349832626",
+        "Direccion": "Los Niches Camino La Obra S/N Curicó - Región del Maule - Chile",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Frutas de Curicó Ltda.",
+        "x": "-35.11428",
+        "y": "-71.28232",
+        "Direccion": "Longitudinal sur km. 194,3 Curicó",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Frutas Naturales S.A.",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "Fundo Pirhuin Lote A, Molina, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Servicios tecnológicos varios",
+        "Nombre": "Frutasol",
+        "x": "-35.2558663366438",
+        "y": "-71.34164659288221",
+        "Direccion": "Km11 los niches, Curico",
+        "Comuna": "Río Claro"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Frutícola Agrichile S.A.",
+        "x": "-35.84667",
+        "y": "-71.59308",
+        "Direccion": "Ruta K-31 Km. 2,4, Camarico Cumpeo",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Frutos del Maipo-Planta Linares",
+        "x": "-35.43166123282077",
+        "y": "-71.65860829879085",
+        "Direccion": "Panamericana Sur km 302, Linares.",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Articulación/Vinculación",
+        "Nombre": "Fundación Innova",
+        "x": "-35.7120800",
+        "y": "-70.8484600",
+        "Direccion": "6 Oriente #744 entre 4 y 5 Sur, Talca",
+        "Comuna": "San Clemente"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Gaba Fruit Ltda.",
+        "x": "-35.1042600",
+        "y": "-71.4958600",
+        "Direccion": "Lote B. Parcela 36. Sector Purísima, San Clemente\r\n",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Geofood Spa",
+        "x": "-35.6290200",
+        "y": "-71.9271200",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Gillmore Wines (Viña Tabontinaja Sociedad Anónima)TABONTINAJA SOCIEDAD ANONIMA",
+        "x": "-35.42565650792319",
+        "y": "-71.66638335979023",
+        "Direccion": "Viña Camino a Constitución Km 20",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Entorno",
+        "Subcategoria": "Entorno",
+        "Nombre": "Gobierno Regional del Maule (ERD y ERI)",
+        "x": "-35.09346473581583",
+        "y": "-71.31662614987721",
+        "Direccion": "1 Norte, #711, Talca",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Hortifrut Planta Molina",
+        "x": "-35.42178490240062",
+        "y": "-71.59521425429513",
+        "Direccion": "Longitudinal Sur Km 205",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Huertos Montserrat",
+        "x": "-33.404469737173834",
+        "y": "-70.57268065984752",
+        "Direccion": "Camino Las Rastras, Km 3 – Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "IANSAGRO",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "ROSARIO NORTE 615, PISO 23. LAS CONDES SANTIAGO - CHILE",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Incubadoras",
+        "Nombre": "Incubadora de Negocios de la Universidad Tecnológica de Chile INACAP",
+        "x": "-35.43639652157413",
+        "y": "-71.6241298732838",
+        "Direccion": "Av. San Miguel 3496, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Servicios tecnológicos varios",
+        "Nombre": "Ingenio Empresario SpA",
+        "x": "-35.42280962305225",
+        "y": "-71.66010900211958",
+        "Direccion": "4 Norte 1154 Talca, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Transferencia tecnológica",
+        "Nombre": "INIA Raihuén",
+        "x": "-35.6953243779221",
+        "y": "-71.68292048470062",
+        "Direccion": "Avda. Esperanza s/n, Estación Villa Alegre, Ruta 5 sur km 284, Villa Alegre.",
+        "Comuna": "Villa Alegre"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Espacios colaborativos",
+        "Nombre": "Innova Cowork",
+        "x": "-35.43166115521216",
+        "y": "-71.65861018238417",
+        "Direccion": "6 Oriente #744 entre 4 y 5 Sur, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Instituto de Ciencias Biológicas",
+        "x": "-35.40582360122583",
+        "y": "-71.63583802798885",
+        "Direccion": "Instituto de Ciencias Biológicas - Universidad de Talca - Campus Talca Avenida Lircay s/n",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "I+D",
+        "Subcategoria": "I+D",
+        "Nombre": "Instituto de Química de Recursos Naturales",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Instituto de Química de Recursos Naturales - Universidad de Talca - Campus Talca Avenida Lircay s/n",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Inverco Chile",
+        "x": "-35.42751036492943",
+        "y": "-71.66553390211942",
+        "Direccion": "1 Oriente 1074, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Inversiones Tapihue Ltda.",
+        "x": "-35.3276900",
+        "y": "-71.8292700",
+        "Direccion": "Pc. 109 L.B Santa Isabel de los Robles, Retiro",
+        "Comuna": "Retiro"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Profesional",
+        "Nombre": "IP INACAP, Curicó",
+        "x": "-34.978272562027136",
+        "y": "-71.21169980213236",
+        "Direccion": "Archipiélago Juan Fernández 2010, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Profesional",
+        "Nombre": "IP INACAP, Talca",
+        "x": "-35.43639652157413",
+        "y": "-71.62411914444844",
+        "Direccion": "Av. San Miguel 3496, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Profesional",
+        "Nombre": "IP Santo Tomás, Curicó",
+        "x": "-34.984871770434864",
+        "y": "-71.24091867329689",
+        "Direccion": "Merced 461, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Profesional",
+        "Nombre": "IP Santo Tomás, Talca ",
+        "x": "-35.4287322646639",
+        "y": "-71.67285090211936",
+        "Direccion": "Avenida Carlos Schorr 255, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "J.A. Jofre Productor de Vinos Limitada",
+        "x": "-35.1042600",
+        "y": "-71.4958600",
+        "Direccion": "Longitudinal Sur Km 196 S/N",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Jucosol S.A (Exportadora de Mostos y Vinos Jucosol S.A.)",
+        "x": "-34.98779718026118",
+        "y": "-71.25079611562609",
+        "Direccion": "Lautaro 1026, Curico ",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "JUHINEJ",
+        "x": "-36.135398945092234",
+        "y": "-71.8080236578613",
+        "Direccion": "El Ajial Lote 3-A, Camino a los Robles, Comuna de Retiro - Región del Maule",
+        "Comuna": "Retiro"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Kurü-ko",
+        "x": "-34.96800703968048",
+        "y": "-71.22295920505381",
+        "Direccion": "Alicia Morel, Curicó, Maule",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Laberinto Wines (Georg Andresen y Compañía Limitada)",
+        "x": "-35.6949400",
+        "y": "-71.4056800",
+        "Direccion": "Campo Lindo La Escondida Km-14, Colbún\r\nLinares - Chile",
+        "Comuna": "Colbún"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Laboratorios",
+        "Nombre": "Laboratorio Agroenológico",
+        "x": "-35.11428",
+        "y": "-71.28232",
+        "Direccion": "Longitudinal Sur km 205, camino a\r\nMolina s/n, Molina",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Laboratorios",
+        "Nombre": "Laboratorio Ambiental",
+        "x": "-35.42527969409858",
+        "y": "-71.66392240211957",
+        "Direccion": "Dos Oriente 1260, Edificio Don Jenaro, Talca.",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Laboratorios",
+        "Nombre": "Laboratorio de Biotecnología y Diseño de Proteínas – PROTECH",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Edificio de Bioinformática, UTALCA - Campus Talca\r\nAvenida Lircay s/n.-Talca-Chile",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Laboratorios",
+        "Nombre": "Laboratorio Microbiológico de Alimentos y Aguas",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Avenida Lircay S/N, Universidad de Talca, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Las Doscientas",
+        "x": "-71.8170700",
+        "y": "-35.3276900",
+        "Comuna": "Pencahue"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Espacios colaborativos",
+        "Nombre": "LAUNCH Potencia",
+        "x": "-35.42278339435575",
+        "y": "-71.66013045979031",
+        "Direccion": "Cuatro Nte 1154, Edificio Alameda Office, piso 5, Talca, Maule",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Lautaro Wines (Soc. Vitivinícola Sagrada Familia SA) ",
+        "x": "-34.98499357042164",
+        "y": "-71.24335610213228",
+        "Direccion": "Merced 641, Curicó, VII Región",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Lecherías Loncomilla- San Francisco de Loncomilla",
+        "x": "-35.6290200",
+        "y": "-71.9271200",
+        "Direccion": "Fundo San Francisco, Casilla 20 D, camino a Constitución kilómetro 14. San Javier, Región del Maule, Chile.",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Lomas De Cauquenes",
+        "x": "-35.980668898086705",
+        "y": "-72.3180684867619",
+        "Direccion": "Ruperto Pinochet 690",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Meybe Agroindustrial Ltda.",
+        "x": "-34.93574070031977",
+        "y": "-71.32760439365397",
+        "Direccion": "Ruta J-60 Km.11 Lt.d S/N",
+        "Comuna": "Rauco"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Miguel Aravena Aravena",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "ruta Los Conquistadores Norte km 3",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Miguel Bustos Rivas",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Coronel de Maule ",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Millantú Ltda.",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Parcela Nº2 San Miguel, Talca, Chile",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Molino Don Quijote",
+        "x": "-34.975960689741335",
+        "y": "-71.21875164668795",
+        "Direccion": "España 1500",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Molino El Peral",
+        "x": "-35.446222130440155",
+        "y": "-71.6888100495521",
+        "Direccion": "Salida Huapi 810",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Molino Victoria S.A.",
+        "x": "-35.43066546424374",
+        "y": "-71.6398978021193",
+        "Direccion": "Andres Vaccaro 2559",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Montes de Molina SpA",
+        "x": "-35.124950109357684",
+        "y": "-71.27427583374457",
+        "Direccion": "Viña el Carmen lote 2-a, Molina",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Mostos del Pacífico S.A",
+        "x": "-35.06407184653371",
+        "y": "-71.29556318014414",
+        "Direccion": "Longitudinal Sur Km. 200, Sagrada Familia – Curicó – Chile",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Transferencia tecnológica",
+        "Nombre": "Oficina de Transferencia y Licenciamiento Tecnológico (OTLUCM)",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Campus San Miguel, Avda. San Miguel 3605, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Oliva Terramater",
+        "x": "-35.1042600",
+        "y": "-71.4958600",
+        "Direccion": "Fundo Peteroa s/n Sagrada Familia\r\nRuta K-16 kilómetro 17, Peteroa\r\nSagrada familia Curicó",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Olivares de Quepu S.A.",
+        "x": "-35.39517026618078",
+        "y": "-71.73687044035238",
+        "Direccion": "Fundo Quepo Lote A4, Talca",
+        "Comuna": "Pencahue"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Olivos Exportaciones",
+        "x": "-34.982454380262546",
+        "y": "-71.23979227329698",
+        "Direccion": "Montt 357, of. 702, Curicó - Chile",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Oscar Orellana Medel",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Ruta Los Conquistadores Km 32",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Patagonia Fresh",
+        "x": "-35.11428",
+        "y": "-71.28232",
+        "Direccion": "Panamerica Sur Km 205.Molina\r\n",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Patricio Agurto Vasquez",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Ruta Los Conquistadores Norte Km 38",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Peteroa Fruit SA (Soc. Agric. Galvez y Cia. Ltda.)",
+        "x": "-34.985475460478746",
+        "y": "-71.2296790444615",
+        "Direccion": "Francisco Moreno 490, Curicó",
+        "Comuna": "Teno"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Petroval",
+        "x": "-35.919805900925226",
+        "y": "-71.6280949261295",
+        "Direccion": "Ruta L49 Kilómetro 3, Sector Miraflores\r\nLongaví - Chile",
+        "Comuna": "Longaví"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Prime Harvest SPA",
+        "x": "-35.4340251",
+        "y": "-71.6549872",
+        "Direccion": "6 Sur 1711, Edificio Santa Malva, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Entorno",
+        "Subcategoria": "Entorno",
+        "Nombre": "Prochile Maule",
+        "x": "-35.4241525374029",
+        "y": "-71.65859314444883",
+        "Direccion": "3 Norte 1272, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Productos Fernández S.A. (PF)",
+        "x": "-35.425345022776476",
+        "y": "-71.64983043095476",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Articulación/Vinculación",
+        "Nombre": "Programa Estratégico Regional Maule Alimenta al Mundo ",
+        "x": "-35.42513180809413",
+        "y": "-71.6663491021195",
+        "Direccion": "1 Poniente # 1258, oficina 713, Talca, Chile",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Transferencia, Extensión, Vinculación e Innovación",
+        "Subcategoria": "Articulación/Vinculación",
+        "Nombre": "PTI Berries Maule Sur",
+        "x": "-35.533333",
+        "y": "-71.7",
+        "Comuna": "Maule"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Purefruit Chile",
+        "x": "-34.96073495856116",
+        "y": "-71.12210840213295",
+        "Direccion": "Av Ramon Freire 1390, Romeral",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Servicios cadena de valor",
+        "Subcategoria": "Laboratorios",
+        "Nombre": "Quality Lab",
+        "x": "-34.95987952777281",
+        "y": "-71.10591492814",
+        "Direccion": "Kilómetro 8, Ruta J-55, Romeral, Curicó",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Rapifresh",
+        "x": "-35.55844778185256",
+        "y": "-71.69664177382116",
+        "Direccion": "Ruta 5 Sur Bobadilla Norte, Lado SAG ",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Renam Arriagada Amado",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Quella Sur San Robinson Maule",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Rocofrut S.A.",
+        "x": "-34.965436423920764",
+        "y": "-71.18925652879672",
+        "Direccion": "Longitudinal Sur Km 187. Romeral, Curicó",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "San Clemente",
+        "x": "-35.43975583909307",
+        "y": "-71.63992560211912",
+        "Direccion": "Longitudinal Sur 259, Talca, Maule",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Santiago Comercio Exterior Exportaciones S.A. (SANCO)",
+        "x": "-35.1042600",
+        "y": "-71.4958600",
+        "Direccion": "Camino Lo Valdivia S/N, km.8\r\nSagrada Familia, Curicó, Chile",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Entorno",
+        "Subcategoria": "Entorno",
+        "Nombre": "SEREMI Agricultura",
+        "x": "-35.42383808015416",
+        "y": "-71.66270967328414",
+        "Direccion": "Tres Norte 980, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Entorno",
+        "Subcategoria": "Entorno",
+        "Nombre": "SEREMI Ciencia, Tecnología, Conocimiento e Innovación (Macrozona Centro Sur)",
+        "x": "-36.83122699242883",
+        "y": "-73.05774314440745",
+        "Direccion": "Avenida Arturo Prat 390, oficina 1601, Concepción.",
+        "Comuna": "Concepción"
+    },
+    {
+        "Categoria": "Entorno",
+        "Subcategoria": "Entorno",
+        "Nombre": "SEREMI Economía Maule",
+        "x": "-35.424776308209985",
+        "y": "-71.66252040211954",
+        "Direccion": "2 Norte N°999 (esquina 3 oriente) , Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Entorno",
+        "Subcategoria": "Entorno",
+        "Nombre": "SEREMI Energía Maule",
+        "x": "-35.42589028015367",
+        "y": "-71.66513573095484",
+        "Direccion": "1 Norte 801 Piso 4 Of. 408",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Entorno",
+        "Subcategoria": "Entorno",
+        "Nombre": "SEREMI Medio Ambiente Maule",
+        "x": "-35.42059423701745",
+        "y": "-71.66472011561362",
+        "Direccion": "Uno Oriente 1590, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Sergio Amigo Quevedo",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Km 13 Camino Quirihue",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Servicios Agroindustriales Danilo Neftali Valdes Lazo E.I.R.L",
+        "x": "-35.11428",
+        "y": "-71.28232",
+        "Direccion": "Bajo Los Romeros S/N ,Comuna de Molina",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Servicios de Frío y Packing Trebol de Miraflores Limitada",
+        "x": "-35.84753797317725",
+        "y": "-71.59682907327193",
+        "Direccion": "Maipú 461, Linares, Maule",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Servival E.I.R.L.",
+        "x": "-35.14700798984512",
+        "y": "-71.24278008747335",
+        "Direccion": "Agua Fria K-175 a 5,2km al S.E. de pza. de molina",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "SmartJuice",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Soc. Vinícola Caballero de Chile Limitada",
+        "x": "-35.427801364866276",
+        "y": "-71.65670400211943",
+        "Direccion": "Av. Uno Sur 1417, Of. 3 Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Soc. Vinícola Huidobro Limitada",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Fundo Hijuela 2 Norte Huilquilemu",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Soc. Vinificadora Lo Valdivia Limitada",
+        "x": "-35.1042600",
+        "y": "-71.4958600",
+        "Direccion": "CAMINO VIEJO 22",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Sociedad Agrícola y Comercial Bravo Hermanos y CIA. Limitada",
+        "x": "-41.1091300",
+        "y": "-73.1418900",
+        "Direccion": "Abate Molina 79 ",
+        "Comuna": "Villa Alegre"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Sociedad Molino Mayo Ltda.",
+        "x": "-35.96986524628053",
+        "y": "-72.31603404443298",
+        "Direccion": "San Francisco 470",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Socoin SPA",
+        "x": "-35.7120800",
+        "y": "-70.8484600",
+        "Direccion": "Fundo Las Delicias",
+        "Comuna": "San Clemente"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Solaris Chile",
+        "x": "-71.8170700",
+        "y": "-35.3276900",
+        "Direccion": "Camino a Botalcura km 1,5 , Talca",
+        "Comuna": "Pencahue"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Sugal Chile Ltda.",
+        "x": "-35.438601162518665",
+        "y": "-71.6163440732838",
+        "Direccion": "Av. San Miguel 4900, Talca\r\n",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Surfrut",
+        "x": "-34.960717373033305",
+        "y": "-71.12211913096833",
+        "Comuna": "Romeral"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Tierra Oliva SpA",
+        "x": "-35.592362404571325",
+        "y": "-71.73429641560868",
+        "Direccion": "Tacna 1220, San Javier, Región del Maule, Chile",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Toro y Negroni",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "Lote 1, La Puntilla, Zapallar",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Tucapel",
+        "x": "-36.05255418000776",
+        "y": "-71.7680266732658",
+        "Direccion": "Av. Presidente Alessandri 115, Retiro",
+        "Comuna": "Retiro"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Profesional",
+        "Nombre": "Universidad Católica del Maule -Dirección de Postgrado",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "Campus San Isidro, en el Km. 6 del camino a Los Niches, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Formación",
+        "Subcategoria": "Formación Profesional",
+        "Nombre": "Universidad Santo Tomás, Sede Talca",
+        "x": "-35.42870603789596",
+        "y": "-71.67286163095473",
+        "Direccion": "Avenida Carlos Schorr 255, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Vicente Loyola Contreras",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Pocillas s/n",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Victor Eugenio Yañez Riffo",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Camino Chorrillo",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Vinícola Patacon Spa ",
+        "x": "-35.078060982634696",
+        "y": "-71.25961645724671",
+        "Direccion": "Casablanca s/n Molina",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Vinificadora Parroncillo Ltda. ",
+        "x": "-34.9833",
+        "y": "-71.2333",
+        "Direccion": "Callejón Parroncillo A Higuerillas S/N, Sagrada Familia, Provincia de Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Vinos Don Marcial (Vinícola y Comercial San Manuel Ltda.)",
+        "x": "-35.60075585074285",
+        "y": "-71.70956297327903",
+        "Direccion": "\tAv. Balmaceda 650",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Vinos Terra Maule Compañía Ltda. ",
+        "x": "-35.6290200",
+        "y": "-71.9271200",
+        "Direccion": "PARCELA 18 , SAN JAVIER",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Alta Cima (Cavas Schroder y Hanke SpA.)",
+        "x": "-35.1042600",
+        "y": "-71.4958600",
+        "Direccion": "Longitudinal Sur Km 202, Camino a Santa Rosa Km 1.5, Sagrada Familia",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Aromo",
+        "x": "-35.42233703720615",
+        "y": "-71.63375240211958",
+        "Direccion": "17 Oriente 931, Talca, Chile.",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Viña Balduzzi",
+        "x": "-35.599216003822725",
+        "y": "-71.7148930156084",
+        "Direccion": "Balmaceda 1189, San Javier de Loncomilla, San Javier, Maule",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Viña Bisogno Wines SpA",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Coronel de Maule ",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Viña Casa Donoso",
+        "x": "-35.4264",
+        "y": "-71.65542",
+        "Direccion": "Fundo La Oriental s/n. Camino a Palmira km 3.5 . Talca, Chile",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Casas Patronales S.A.",
+        "x": "-35.7120800",
+        "y": "-70.8484600",
+        "Direccion": "Fundo El Aromo S/N San Clemente Parcela 1 ",
+        "Comuna": "San Clemente"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa líder",
+        "Nombre": "Viña Concha y Toro",
+        "x": "-35.44088066532612",
+        "y": "-71.83404435353702",
+        "Direccion": "Ruta K-650 S/N, Pencahue",
+        "Comuna": "Pencahue"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Corral Victoria Ltda.",
+        "x": "-35.7120800",
+        "y": "-70.8484600",
+        "Direccion": "Km 11, Camino a San Clemente, Talca",
+        "Comuna": "San Clemente"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Correa Albano",
+        "x": "-35.046014755295445",
+        "y": "-71.3132439172251",
+        "Direccion": "Viña Correa Albano, Santa Rosa\r\n",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña del Pedregal S.A (Ex Carta Vieja)",
+        "x": "-35.685821900550955",
+        "y": "-71.7335340490119",
+        "Direccion": "Francisco Antonio Encina 231",
+        "Comuna": "Villa Alegre"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Don Heraldo (Viña San Clemente Ltda.) ",
+        "x": "-35.96614784709899",
+        "y": "-72.31023737326838",
+        "Direccion": "Membrillar 537",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Don Heraldo Ltda.",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Predio El Molino Lote H s/n ",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Galán (Soc. Vitivinícola Siete Tazas Limitada)",
+        "x": "-35.11428",
+        "y": "-71.28232",
+        "Direccion": "Fundo San Hilario Hijuela 3",
+        "Comuna": "Molina"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Gran Hidalgo (Hidalgo Campos Luis Carlos y Otros)",
+        "x": "-35.97190967502241",
+        "y": "-72.19348084566452",
+        "Direccion": "Km 13 Camino a Parral",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña I Wines ",
+        "x": "-34.931683",
+        "y": "-71.172158",
+        "Direccion": " Longitudinal Sur Km 181, Sector Los Carros",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña las Pitras (SOC AGRICOLA VINA LAS PITRAS LTDA)",
+        "x": "-34.926537696072366",
+        "y": "-71.28397059608965",
+        "Direccion": "Fundo Las Pitras s/n, Rauco, Curicó, Chile",
+        "Comuna": "Rauco"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Viña Los Huinganes",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "San Luis s/n",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Los Nogales S.A.",
+        "x": "-34.96687819062887",
+        "y": "-71.2717118057264",
+        "Direccion": "BARROS NEGROS S/N, Curicó",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Márquez Ltda",
+        "x": "-35.02659244854917",
+        "y": "-71.21992714109905",
+        "Direccion": "Casilla 61",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Martinez de Salinas Ltda.",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Lote 3 Fundo Huechahue Km 12 , camino Cauquenes",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Montecristo ",
+        "x": "-35.1042600",
+        "y": "-71.4958600",
+        "Direccion": "Parcela 62 Juan XXIII",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Requingua",
+        "x": "-35.02874436651299",
+        "y": "-71.34366367908113",
+        "Direccion": "Fundo Requingua S / N Sagrada Familia, Curicó, Chile",
+        "Comuna": "Sagrada Familia"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Rucahue",
+        "x": "-35.538205644744025",
+        "y": "-71.82811977224883",
+        "Direccion": "Camino el morro S/N, San Javier",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Saavedra (Saavedra Vergara Eugenio Eduardo y Otro)",
+        "x": "-35.6290200",
+        "y": "-71.9271200",
+        "Direccion": "Desde el Melozal, San Javier",
+        "Comuna": "San Javier"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña San Lorenzo de Cauquenes",
+        "x": "-35.743809019360604",
+        "y": "-72.21357129246667",
+        "Direccion": "Sector 3 name sur km 40 , Cuquenes",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Santa Magdalena SpA. ",
+        "x": "-41.1091300",
+        "y": "-73.1418900",
+        "Direccion": "Avenida Abate Molina 79",
+        "Comuna": "Villa Alegre"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Terra Viva Wine Export (SOCIEDAD VINICOLA TERRAVIVA LTDA)",
+        "x": "-35.4451952",
+        "y": "-71.6274922",
+        "Direccion": "33 1/2 ORIENTE 1117, Talca",
+        "Comuna": "Talca"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Viña TIHU",
+        "x": "-36.0631227525541",
+        "y": "-72.44159090879171",
+        "Direccion": "Camino Coronel de Maule, Sector las Gredas Km 4",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viña Valle Frío",
+        "x": "-35.48157731533681",
+        "y": "-71.52925688225059",
+        "Direccion": "Fundo Los Pocillos Camino San Clemente km. 12, Aurora \r\n",
+        "Comuna": "San Clemente"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viñas Caupolicán S.A ",
+        "x": "-34.98557147778624",
+        "y": "-71.24278450213214",
+        "Direccion": "Avenida Manuel Rodríguez 557",
+        "Comuna": "Curicó"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Viñedos Gurfinkel Limitada",
+        "x": "-35.980899825765036",
+        "y": "-72.3162436021034",
+        "Direccion": "Av. Ruperto Pinochet 578",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "VirtusNatura Chile SpA (Bberri®)",
+        "x": "-35.84667",
+        "y": "-71.59308",
+        "Direccion": "FUNDO PARRONALES S N, KM 304 CARRETERA 5 SUR, LINARES CL, ",
+        "Comuna": "Linares"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Empresa",
+        "Nombre": "Vitivinícola Trapiche Limitada",
+        "x": "-35.3333",
+        "y": "-72.4167",
+        "Direccion": "EL TRAPICHE PARCELA 2, Maule",
+        "Comuna": "Constitución"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Walter Abarza soto",
+        "x": "-35.9671",
+        "y": "-72.32248",
+        "Direccion": "Ruta Los Conquistadores Km 39",
+        "Comuna": "Cauquenes"
+    },
+    {
+        "Categoria": "Sector productivo",
+        "Subcategoria": "Microempresa",
+        "Nombre": "Zeta Hongos Comestibles",
+        "x": "-35.6949400",
+        "y": "-71.4056800",
+        "Direccion": "Colbún",
+        "Comuna": "Colbún"
+    }
+]
