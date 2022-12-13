@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { MapContainer, TileLayer, CircleMarker, Polyline, Marker, Popup ,Tooltip} from 'react-leaflet';
+import { MapContainer, TileLayer, Marker ,Tooltip} from 'react-leaflet';
 
 import imagen from "./img/marker.png";
 import logo from "./img/logo.png";
